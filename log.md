@@ -4,7 +4,7 @@
 
 **Today's Progress**: Solved a problem on Hackerrank platform.
 
-**Thoughts:** 
+**Thoughts:** A simple problem based on Python arithmetic operators.
 
-**Link to work:** [Arithmetic Operators | Hackerrank](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)
+**Link to work:** [Arithmetic Operators | Hackerrank](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) [Solution]()
 
