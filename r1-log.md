@@ -6,3 +6,6 @@ The log of my #100DaysOfCode challenge. Started on [January 30th, 2021].
 
 ### R1D1
 Started coding on Hackerrank, solved a problem.
+
+### R1D2
+Continued coding on Hackerrank, solved a problem.
