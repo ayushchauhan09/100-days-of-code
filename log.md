@@ -8,3 +8,11 @@
 
 **Link to work:** [Arithmetic Operators | Hackerrank](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Arithmetic_Operators.py)
 
+### Day 2: January 31, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** A simple problem based on Python division.
+
+**Link to work:** [Python:Division | Hackerrank](https://www.hackerrank.com/challenges/python-division/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Python_Division.py)
+
