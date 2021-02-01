@@ -9,3 +9,6 @@ Started coding on Hackerrank, solved a problem.
 
 ### R1D2
 Continued coding on Hackerrank, solved a problem.
+
+### R1D3
+Continued coding on Hackerrank, solved a problem.
