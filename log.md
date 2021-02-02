@@ -24,3 +24,10 @@
 
 **Link to work:** [Python:Loops | Hackerrank](https://www.hackerrank.com/challenges/python-loops/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Python_Loops.py)
 
+### Day 4: February 2, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** A popular problem called FizzBuzz.
+
+**Link to work:** [FizzBuzz | Hackerrank](https://www.hackerrank.com/challenges/fizzbuzz/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Fizzbuzz.py)
