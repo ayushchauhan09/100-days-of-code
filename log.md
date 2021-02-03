@@ -32,7 +32,7 @@
 
 **Link to work:** [FizzBuzz | Hackerrank](https://www.hackerrank.com/challenges/fizzbuzz/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Fizzbuzz.py)
 
-### Day 4: February 3, 2021
+### Day 5: February 3, 2021
 
 **Today's Progress**: Continued solving problems on Hackerrank platform.
 
