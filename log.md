@@ -39,3 +39,11 @@
 **Thoughts:** Solved the leap year problem.
 
 **Link to work:** [Write a function | Hackerrank](https://www.hackerrank.com/challenges/write-a-function/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Leap-Year.py)
+
+### Day 6: February 4, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved the Plus-Minus problem.
+
+**Link to work:** [Plus Minus | Hackerrank](https://www.hackerrank.com/challenges/plus-minus/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Plus-Minus.py)
