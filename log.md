@@ -47,3 +47,11 @@
 **Thoughts:** Solved the Plus-Minus problem.
 
 **Link to work:** [Plus Minus | Hackerrank](https://www.hackerrank.com/challenges/plus-minus/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Plus-Minus.py)
+
+### Day 7: February 5, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved the Swap Case problem.
+
+**Link to work:** [Plus Minus | Hackerrank](https://www.hackerrank.com/challenges/swap-case/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Swap-Case.py)
