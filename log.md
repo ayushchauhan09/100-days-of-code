@@ -63,3 +63,11 @@
 **Thoughts:** Solved a problem based on arrays.
 
 **Link to work:** [Day 7 - Arrays | Hackerrank](https://www.hackerrank.com/challenges/30-arrays/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Arrays%20-%20Problem.py)
+
+### Day 9: February 7, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved the Staircase problem on Hackerrank.
+
+**Link to work:** [Staircase | Hackerrank](https://www.hackerrank.com/challenges/staircase/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Staircase.py)
