@@ -55,3 +55,11 @@
 **Thoughts:** Solved the Swap Case problem.
 
 **Link to work:** [Swap Case | Hackerrank](https://www.hackerrank.com/challenges/swap-case/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Swap-Case.py)
+
+### Day 8: February 6, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved a problem based on arrays.
+
+**Link to work:** [Day 7 - Arrays | Hackerrank](https://www.hackerrank.com/challenges/30-arrays/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Arrays%20-%20Problem.py)
