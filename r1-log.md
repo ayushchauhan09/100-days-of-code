@@ -30,3 +30,6 @@ Continued coding on Hackerrank, solved a problem.
 
 ### R1D9
 Continued coding on Hackerrank, solved a problem.
+
+### R1D10
+Continued coding on Hackerrank, solved a problem.
