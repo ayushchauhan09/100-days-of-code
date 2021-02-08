@@ -71,3 +71,11 @@
 **Thoughts:** Solved the Staircase problem on Hackerrank.
 
 **Link to work:** [Staircase | Hackerrank](https://www.hackerrank.com/challenges/staircase/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Staircase.py)
+
+### Day 10: February 8, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved the Factorial problem on Hackerrank.
+
+**Link to work:** [Recursion 3 | Hackerrank](https://www.hackerrank.com/challenges/30-recursion/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Factorial.py)
