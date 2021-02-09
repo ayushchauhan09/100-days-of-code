@@ -79,3 +79,11 @@
 **Thoughts:** Solved the Factorial problem on Hackerrank.
 
 **Link to work:** [Recursion 3 | Hackerrank](https://www.hackerrank.com/challenges/30-recursion/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Factorial.py)
+
+### Day 11: February 9, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved a problem based on loops on Hackerrank.
+
+**Link to work:** [Loops | Hackerrank](https://www.hackerrank.com/challenges/30-loops/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Day_5_Loops_.py)
