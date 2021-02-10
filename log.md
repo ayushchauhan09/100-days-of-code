@@ -87,3 +87,11 @@
 **Thoughts:** Solved a problem based on loops on Hackerrank.
 
 **Link to work:** [Loops | Hackerrank](https://www.hackerrank.com/challenges/30-loops/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Day_5_Loops_.py)
+
+### Day 12: February 10, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved a problem based on conditional statements on Hackerrank.
+
+**Link to work:** [Conditional Statements | Hackerrank](https://www.hackerrank.com/challenges/30-conditional-statements/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Conditional_Statements.py)
