@@ -95,3 +95,11 @@
 **Thoughts:** Solved a problem based on conditional statements on Hackerrank.
 
 **Link to work:** [Conditional Statements | Hackerrank](https://www.hackerrank.com/challenges/30-conditional-statements/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Conditional_Statements.py)
+
+### Day 13: February 11, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved a problem based on strings on Hackerrank.
+
+**Link to work:** [Mutations | Hackerrank](https://www.hackerrank.com/challenges/python-mutations/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Mutations.py)
