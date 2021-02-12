@@ -103,3 +103,11 @@
 **Thoughts:** Solved a problem based on strings on Hackerrank.
 
 **Link to work:** [Mutations | Hackerrank](https://www.hackerrank.com/challenges/python-mutations/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Mutations.py)
+
+### Day 14: February 12, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved a problem based on strings on Hackerrank.
+
+**Link to work:** [String : Split And Join | Hackerrank](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Split_And_Join.py)
