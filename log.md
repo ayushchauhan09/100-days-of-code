@@ -119,3 +119,11 @@
 **Thoughts:** Solved a problem based on list comprehension on Hackerrank.
 
 **Link to work:** [List Comprehension | Hackerrank](https://www.hackerrank.com/challenges/list-comprehensions/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/List_Comprehension.py)
+
+### Day 16: February 14, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved a problem called Day of the Programmer on Hackerrank.
+
+**Link to work:** [Day of the Programmer | Hackerrank](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Day_of_the_Programmer.py)
