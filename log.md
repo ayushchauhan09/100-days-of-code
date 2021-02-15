@@ -127,3 +127,11 @@
 **Thoughts:** Solved a problem called Day of the Programmer on Hackerrank.
 
 **Link to work:** [Day of the Programmer | Hackerrank](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Day_of_the_Programmer.py)
+
+### Day 17: February 15, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved a basic problem on Hackerrank.
+
+**Link to work:** [A Very Big Sum | Hackerrank](https://www.hackerrank.com/challenges/a-very-big-sum/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/A_Very_Big_Sum.py)
