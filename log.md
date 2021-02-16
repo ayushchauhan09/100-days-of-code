@@ -135,3 +135,11 @@
 **Thoughts:** Solved a basic problem on Hackerrank.
 
 **Link to work:** [A Very Big Sum | Hackerrank](https://www.hackerrank.com/challenges/a-very-big-sum/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/A_Very_Big_Sum.py)
+
+### Day 18: February 16, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved a basic problem based on array sum on Hackerrank.
+
+**Link to work:** [Simple Array Sum | Hackerrank](https://www.hackerrank.com/challenges/simple-array-sum/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Simple_Array_Sum.py)
