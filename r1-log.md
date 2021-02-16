@@ -54,3 +54,6 @@ Continued coding on Hackerrank, solved a problem.
 
 ### R1D17
 Continued coding on Hackerrank, solved a problem.
+
+### R1D18
+Continued coding on Hackerrank, solved a problem.
