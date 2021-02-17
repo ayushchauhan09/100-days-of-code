@@ -151,3 +151,11 @@
 **Thoughts:** Solved the CamelCase problem on Hackerrank.
 
 **Link to work:** [CamelCase | Hackerrank](https://www.hackerrank.com/challenges/camelcase/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/CamelCase.py)
+
+### Day 20: February 18, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved a problem based on divmod function in Python on Hackerrank.
+
+**Link to work:** [Mod Divmod | Hackerrank](https://www.hackerrank.com/challenges/python-mod-divmod/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Mod_Divmod.py)
