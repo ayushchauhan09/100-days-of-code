@@ -143,3 +143,11 @@
 **Thoughts:** Solved a basic problem based on array sum on Hackerrank.
 
 **Link to work:** [Simple Array Sum | Hackerrank](https://www.hackerrank.com/challenges/simple-array-sum/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Simple_Array_Sum.py)
+
+### Day 19: February 17, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved the CamelCase problem on Hackerrank.
+
+**Link to work:** [CamelCase | Hackerrank](https://www.hackerrank.com/challenges/camelcase/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/CamelCase.py)
