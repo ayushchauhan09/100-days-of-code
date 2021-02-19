@@ -159,3 +159,11 @@
 **Thoughts:** Solved a problem based on divmod function in Python on Hackerrank.
 
 **Link to work:** [Mod Divmod | Hackerrank](https://www.hackerrank.com/challenges/python-mod-divmod/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Mod_Divmod.py)
+
+### Day 21: February 19, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved a problem based on integers on Hackerrank.
+
+**Link to work:** [Integers Come In All Sizes | Hackerrank](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Integers_Come_In_All_Sizes.py)
