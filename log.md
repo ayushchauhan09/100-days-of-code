@@ -167,3 +167,11 @@
 **Thoughts:** Solved a problem based on integers on Hackerrank.
 
 **Link to work:** [Integers Come In All Sizes | Hackerrank](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Integers_Come_In_All_Sizes.py)
+
+### Day 22: February 20, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved a problem based on pow function on Hackerrank.
+
+**Link to work:** [Power - Mod Power | Hackerrank](https://www.hackerrank.com/challenges/python-power-mod-power/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Power_Mod_Power.py)
