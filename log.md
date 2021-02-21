@@ -175,3 +175,11 @@
 **Thoughts:** Solved a problem based on pow function on Hackerrank.
 
 **Link to work:** [Power - Mod Power | Hackerrank](https://www.hackerrank.com/challenges/python-power-mod-power/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Power_Mod_Power.py)
+
+### Day 23: February 21, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved the problem Find The Runner-Up Score! on Hackerrank.
+
+**Link to work:** [Find The Runner-Up Score! | Hackerrank](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Find_The_Runner_Up_Score.py)
