@@ -183,3 +183,11 @@
 **Thoughts:** Solved the problem Find The Runner-Up Score! on Hackerrank.
 
 **Link to work:** [Find The Runner-Up Score! | Hackerrank](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Find_The_Runner_Up_Score.py)
+
+### Day 24: February 22, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved the Text Wrap problem on Hackerrank.
+
+**Link to work:** [Text Wrap | Hackerrank](https://www.hackerrank.com/challenges/text-wrap/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Text_Wrap.py)
