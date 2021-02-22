@@ -191,3 +191,11 @@
 **Thoughts:** Solved the Text Wrap problem on Hackerrank.
 
 **Link to work:** [Text Wrap | Hackerrank](https://www.hackerrank.com/challenges/text-wrap/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Text_Wrap.py)
+
+### Day 25: February 23, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved a mathematical problem on Hackerrank.
+
+**Link to work:** [Triangle Quest | Hackerrank](https://www.hackerrank.com/challenges/python-quest-1/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Triangle_Quest.py)
