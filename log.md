@@ -199,3 +199,11 @@
 **Thoughts:** Solved a mathematical problem on Hackerrank.
 
 **Link to work:** [Triangle Quest | Hackerrank](https://www.hackerrank.com/challenges/python-quest-1/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Triangle_Quest.py)
+
+### Day 26: February 24, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved a mathematical problem on Hackerrank.
+
+**Link to work:** [Triangle Quest 2 | Hackerrank](https://www.hackerrank.com/challenges/triangle-quest-2/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Triangle_Quest_2.py)
