@@ -207,3 +207,11 @@
 **Thoughts:** Solved a mathematical problem on Hackerrank.
 
 **Link to work:** [Triangle Quest 2 | Hackerrank](https://www.hackerrank.com/challenges/triangle-quest-2/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Triangle_Quest_2.py)
+
+### Day 27: February 25, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved a problem based on Python itertools on Hackerrank.
+
+**Link to work:** [itertools.product() | Hackerrank](https://www.hackerrank.com/challenges/itertools-product/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/itertools.product().py)
