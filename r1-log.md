@@ -84,3 +84,6 @@ Continued coding on Hackerrank, solved a problem.
 
 ### R1D27
 Continued coding on Hackerrank, solved a problem.
+
+### R1D28
+Continued coding on Hackerrank, solved a problem.
