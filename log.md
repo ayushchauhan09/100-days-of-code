@@ -215,3 +215,11 @@
 **Thoughts:** Solved a problem based on Python itertools on Hackerrank.
 
 **Link to work:** [itertools.product() | Hackerrank](https://www.hackerrank.com/challenges/itertools-product/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/itertools.product().py)
+
+### Day 28: February 26, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved the Compare the Triplets problem on Hackerrank.
+
+**Link to work:** [Compare the Triplets | Hackerrank](https://www.hackerrank.com/challenges/compare-the-triplets/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Compare_the_Triplets.py)
