@@ -223,3 +223,11 @@
 **Thoughts:** Solved the Compare the Triplets problem on Hackerrank.
 
 **Link to work:** [Compare the Triplets | Hackerrank](https://www.hackerrank.com/challenges/compare-the-triplets/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Compare_the_Triplets.py)
+
+### Day 29: February 27, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved the Cats and a Mouse problem on Hackerrank.
+
+**Link to work:** [Cats and a Mouse | Hackerrank](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Cats_and_a_Mouse.py)
