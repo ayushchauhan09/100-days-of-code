@@ -231,3 +231,11 @@
 **Thoughts:** Solved the Cats and a Mouse problem on Hackerrank.
 
 **Link to work:** [Cats and a Mouse | Hackerrank](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Cats_and_a_Mouse.py)
+
+### Day 30: February 28, 2021
+
+**Today's Progress**: Continued solving problems on Hackerrank platform.
+
+**Thoughts:** Solved the Mini-Max Sum problem on Hackerrank.
+
+**Link to work:** [Mini-Max Sum | Hackerrank](https://www.hackerrank.com/challenges/mini-max-sum/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Mini-Max_Sum.py)
