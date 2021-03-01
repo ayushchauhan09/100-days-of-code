@@ -239,3 +239,11 @@
 **Thoughts:** Solved the Mini-Max Sum problem on Hackerrank.
 
 **Link to work:** [Mini-Max Sum | Hackerrank](https://www.hackerrank.com/challenges/mini-max-sum/problem) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Mini-Max_Sum.py)
+
+### Day 31: March 1, 2021
+
+**Today's Progress**: Continued solving problems on Hackerearth platform.
+
+**Thoughts:** Solved the 13 Reasons Why problem on Hackerearth.
+
+**Link to work:** [13 Reasons Why | Hackerearth](https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/algorithm/its-easy-1/) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/13_Reasons_Why.py)
