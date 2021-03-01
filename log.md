@@ -242,7 +242,7 @@
 
 ### Day 31: March 1, 2021
 
-**Today's Progress**: Continued solving problems on Hackerearth platform.
+**Today's Progress**: Started coding on Hackerearth platform.
 
 **Thoughts:** Solved the 13 Reasons Why problem on Hackerearth.
 
