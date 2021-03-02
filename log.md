@@ -247,3 +247,11 @@
 **Thoughts:** Solved the 13 Reasons Why problem on Hackerearth.
 
 **Link to work:** [13 Reasons Why | Hackerearth](https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/algorithm/its-easy-1/) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/13_Reasons_Why.py)
+
+### Day 32: March 2, 2021
+
+**Today's Progress**: Continued solving problems on Hackerearth platform.
+
+**Thoughts:** Solved the Divisibility problem on Hackerearth.
+
+**Link to work:** [Divisibility | Hackerearth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisible-or-not-81b86ad7/) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Divisibility.py)
