@@ -255,3 +255,11 @@
 **Thoughts:** Solved the Divisibility problem on Hackerearth.
 
 **Link to work:** [Divisibility | Hackerearth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisible-or-not-81b86ad7/) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Divisibility.py)
+
+### Day 33: March 3, 2021
+
+**Today's Progress**: Continued solving problems on Hackerearth platform.
+
+**Thoughts:** Solved the Rest in Peace 21-1! problem on Hackerearth.
+
+**Link to work:** [Rest in Peace 21-1! | Hackerearth](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/rest-in-peace-21-1/) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Rest%20in%20peace%20-%2021-1!.py)
