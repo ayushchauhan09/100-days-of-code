@@ -96,3 +96,9 @@ Continued coding on Hackerrank, solved a problem.
 
 ### R1D31
 Started coding on Hackerearth, solved a problem.
+
+### R1D32
+Continued coding on Hackerearth, solved a problem.
+
+### R1D33
+Continued coding on Hackerearth, solved a problem.
