@@ -263,3 +263,11 @@
 **Thoughts:** Solved the Rest in Peace 21-1! problem on Hackerearth.
 
 **Link to work:** [Rest in Peace 21-1! | Hackerearth](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/rest-in-peace-21-1/) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Rest%20in%20peace%20-%2021-1!.py)
+
+### Day 34: March 4, 2021
+
+**Today's Progress**: Continued solving problems on Hackerearth platform.
+
+**Thoughts:** Solved the Roy And Profile Picture problem on Hackerearth.
+
+**Link to work:** [Roy And Profile Picture | Hackerearth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/roy-and-profile-picture/) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Roy_And_Profile_Picture.py)
