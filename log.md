@@ -271,3 +271,11 @@
 **Thoughts:** Solved the Roy And Profile Picture problem on Hackerearth.
 
 **Link to work:** [Roy And Profile Picture | Hackerearth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/roy-and-profile-picture/) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Roy_And_Profile_Picture.py)
+
+### Day 35: March 5, 2021
+
+**Today's Progress**: Continued solving problems on Hackerearth platform.
+
+**Thoughts:** Solved the Jadoo vs Koba problem on Hackerearth.
+
+**Link to work:** [Jadoo vs Koba | Hackerearth](https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-vs-koba/) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Jadoo_vs_Koba.py)
