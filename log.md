@@ -279,3 +279,11 @@
 **Thoughts:** Solved the Jadoo vs Koba problem on Hackerearth.
 
 **Link to work:** [Jadoo vs Koba | Hackerearth](https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-vs-koba/) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Jadoo_vs_Koba.py)
+
+### Day 36: March 6, 2021
+
+**Today's Progress**: Continued solving problems on Hackerearth platform.
+
+**Thoughts:** Solved the I am Easy problem on Hackerearth.
+
+**Link to work:** [I am Easy | Hackerearth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/i-am-easy/) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/I_am_easy.py)
