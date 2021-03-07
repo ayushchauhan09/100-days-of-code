@@ -287,3 +287,11 @@
 **Thoughts:** Solved the I am Easy problem on Hackerearth.
 
 **Link to work:** [I am Easy | Hackerearth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/i-am-easy/) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/I_am_easy.py)
+
+### Day 37: March 7, 2021
+
+**Today's Progress**: Continued solving problems on Hackerearth platform.
+
+**Thoughts:** Solved the What Is The String Made Of? problem on Hackerearth.
+
+**Link to work:** [What Is The String Made Of?| Hackerearth](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/what-is-the-string-made-of-2/) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/What_is_the_string_made_of.py)
