@@ -294,4 +294,4 @@
 
 **Thoughts:** Solved the What Is The String Made Of? problem on Hackerearth.
 
-**Link to work:** [What Is The String Made Of?| Hackerearth](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/what-is-the-string-made-of-2/) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/What_is_the_string_made_of.py)
+**Link to work:** [What Is The String Made Of? | Hackerearth](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/what-is-the-string-made-of-2/) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/What_is_the_string_made_of.py)
