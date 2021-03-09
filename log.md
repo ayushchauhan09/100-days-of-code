@@ -303,3 +303,11 @@
 **Thoughts:** Solved the Teddy And Tweety problem on Hackerearth.
 
 **Link to work:** [Teddy And Tweety | Hackerearth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/teddy-and-tweety/) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Teddy_And_Tweety.py)
+
+### Day 39: March 9, 2021
+
+**Today's Progress**: Continued solving problems on Hackerearth platform.
+
+**Thoughts:** Solved the Palindromic String problem on Hackerearth.
+
+**Link to work:** [Palindromic String | Hackerearth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/palindrome-check-2/) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Palindromic_String.py)
