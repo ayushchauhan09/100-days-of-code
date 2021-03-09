@@ -117,3 +117,6 @@ Continued coding on Hackerearth, solved a problem.
 
 ### R1D38
 Continued coding on Hackerearth, solved a problem.
+
+### R1D39
+Continued coding on Hackerearth, solved a problem.
