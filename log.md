@@ -311,3 +311,11 @@
 **Thoughts:** Solved the Palindromic String problem on Hackerearth.
 
 **Link to work:** [Palindromic String | Hackerearth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/palindrome-check-2/) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Palindromic_String.py)
+
+### Day 40: March 10, 2021
+
+**Today's Progress**: Started coding on CodeChef platform.
+
+**Thoughts:** Solved the Enormous Input Test problem on CodeChef.
+
+**Link to work:** [Enormous Input Test | CodeChef](https://www.codechef.com/problems/INTEST) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Enormous-Input.py)
