@@ -120,3 +120,6 @@ Continued coding on Hackerearth, solved a problem.
 
 ### R1D39
 Continued coding on Hackerearth, solved a problem.
+
+### R1D40
+Started coding on CodeChef, solved a problem.
