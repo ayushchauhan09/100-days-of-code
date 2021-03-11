@@ -123,3 +123,6 @@ Continued coding on Hackerearth, solved a problem.
 
 ### R1D40
 Started coding on CodeChef, solved a problem.
+
+### R1D41
+Continued coding on CodeChef, solved a problem.
