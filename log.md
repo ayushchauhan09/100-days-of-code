@@ -319,3 +319,11 @@
 **Thoughts:** Solved the Enormous Input Test problem on CodeChef.
 
 **Link to work:** [Enormous Input Test | CodeChef](https://www.codechef.com/problems/INTEST) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Enormous-Input.py)
+
+### Day 41: March 11, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Find Remainder problem on CodeChef.
+
+**Link to work:** [Find Remainder | CodeChef](https://www.codechef.com/problems/FLOW002) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Find-Remainder.py)
