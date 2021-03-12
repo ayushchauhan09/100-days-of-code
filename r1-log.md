@@ -126,3 +126,6 @@ Started coding on CodeChef, solved a problem.
 
 ### R1D41
 Continued coding on CodeChef, solved a problem.
+
+### R1D42
+Continued coding on CodeChef, solved a problem.
