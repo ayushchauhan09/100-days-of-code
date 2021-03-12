@@ -332,6 +332,6 @@
 
 **Today's Progress**: Continued solving problems on CodeChef platform.
 
-**Thoughts:** Solved the Find and Last Digit problem on CodeChef.
+**Thoughts:** Solved the First and Last Digit problem on CodeChef.
 
-**Link to work:** [Find and Last Digit | CodeChef](https://www.codechef.com/problems/FLOW004) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/First-And-Last-Digit.py)
+**Link to work:** [First and Last Digit | CodeChef](https://www.codechef.com/problems/FLOW004) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/First-And-Last-Digit.py)
