@@ -327,3 +327,11 @@
 **Thoughts:** Solved the Find Remainder problem on CodeChef.
 
 **Link to work:** [Find Remainder | CodeChef](https://www.codechef.com/problems/FLOW002) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Find-Remainder.py)
+
+### Day 42: March 12, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Find and Last Digit problem on CodeChef.
+
+**Link to work:** [Find and Last Digit | CodeChef](https://www.codechef.com/problems/FLOW004) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/First-And-Last-Digit.py)
