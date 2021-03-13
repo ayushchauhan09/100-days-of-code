@@ -335,3 +335,11 @@
 **Thoughts:** Solved the First and Last Digit problem on CodeChef.
 
 **Link to work:** [First and Last Digit | CodeChef](https://www.codechef.com/problems/FLOW004) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/First-And-Last-Digit.py)
+
+### Day 43: March 13, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Smallest Numbers of Notes problem on CodeChef.
+
+**Link to work:** [Smallest Numbers of Notes | CodeChef](https://www.codechef.com/problems/FLOW005) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Smallest-Number-Of-Notes.py)
