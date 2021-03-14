@@ -343,3 +343,11 @@
 **Thoughts:** Solved the Smallest Numbers of Notes problem on CodeChef.
 
 **Link to work:** [Smallest Numbers of Notes | CodeChef](https://www.codechef.com/problems/FLOW005) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Smallest-Number-Of-Notes.py)
+
+### Day 44: March 14, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Finding Square Roots problem on CodeChef.
+
+**Link to work:** [Finding Square Roots | CodeChef](https://www.codechef.com/problems/FSQRT) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Finding-Square-Roots.py)
