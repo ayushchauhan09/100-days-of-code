@@ -351,3 +351,11 @@
 **Thoughts:** Solved the Finding Square Roots problem on CodeChef.
 
 **Link to work:** [Finding Square Roots | CodeChef](https://www.codechef.com/problems/FSQRT) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Finding-Square-Roots.py)
+
+### Day 45: March 15, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Sum of Digits problem on CodeChef.
+
+**Link to work:** [Sum of Digits | CodeChef](https://www.codechef.com/problems/FLOW006) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Sum-Of-Digits.py)
