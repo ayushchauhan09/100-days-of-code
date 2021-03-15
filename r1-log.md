@@ -135,3 +135,6 @@ Continued coding on CodeChef, solved a problem.
 
 ### R1D44
 Continued coding on CodeChef, solved a problem.
+
+### R1D45
+Continued coding on CodeChef, solved a problem.
