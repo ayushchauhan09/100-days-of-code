@@ -367,3 +367,11 @@
 **Thoughts:** Solved the Reverse The Number problem on CodeChef.
 
 **Link to work:** [Reverse The Number | CodeChef](https://www.codechef.com/problems/FLOW007) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Reverse-The-Number.py)
+
+### Day 47: March 17, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Second Largest problem on CodeChef.
+
+**Link to work:** [Second Largest | CodeChef](https://www.codechef.com/problems/FLOW017) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Second-Largest.py)
