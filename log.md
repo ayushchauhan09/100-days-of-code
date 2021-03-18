@@ -375,3 +375,11 @@
 **Thoughts:** Solved the Second Largest problem on CodeChef.
 
 **Link to work:** [Second Largest | CodeChef](https://www.codechef.com/problems/FLOW017) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Second-Largest.py)
+
+### Day 48: March 18, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Valid Triangles problem on CodeChef.
+
+**Link to work:** [Valid Triangles | CodeChef](https://www.codechef.com/problems/FLOW013) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Valid-Triangle.py)
