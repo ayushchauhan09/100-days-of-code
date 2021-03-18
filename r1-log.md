@@ -144,3 +144,6 @@ Continued coding on CodeChef, solved a problem.
 
 ### R1D47
 Continued coding on CodeChef, solved a problem.
+
+### R1D48
+Continued coding on CodeChef, solved a problem.
