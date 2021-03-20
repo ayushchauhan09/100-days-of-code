@@ -383,3 +383,19 @@
 **Thoughts:** Solved the Valid Triangles problem on CodeChef.
 
 **Link to work:** [Valid Triangles | CodeChef](https://www.codechef.com/problems/FLOW013) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Valid-Triangle.py)
+
+### Day 49: March 19, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Lucky Four problem on CodeChef.
+
+**Link to work:** [Lucky Four | CodeChef](https://www.codechef.com/problems/LUCKFOUR) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Lucky-Four.py)
+
+### Day 50: March 20, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Helping Chef problem on CodeChef.
+
+**Link to work:** [Helping Chef | CodeChef](https://www.codechef.com/problems/FLOW008) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Helping-Chef.py)
