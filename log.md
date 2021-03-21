@@ -399,3 +399,11 @@
 **Thoughts:** Solved the Helping Chef problem on CodeChef.
 
 **Link to work:** [Helping Chef | CodeChef](https://www.codechef.com/problems/FLOW008) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Helping-Chef.py)
+
+### Day 51: March 21, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the The Block Game problem on CodeChef.
+
+**Link to work:** [The Block Game | CodeChef](https://www.codechef.com/problems/PALL01) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/The-Block-Game.py)
