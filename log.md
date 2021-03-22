@@ -407,3 +407,11 @@
 **Thoughts:** Solved the The Block Game problem on CodeChef.
 
 **Link to work:** [The Block Game | CodeChef](https://www.codechef.com/problems/PALL01) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/The-Block-Game.py)
+
+### Day 52: March 22, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Small Factorials problem on CodeChef.
+
+**Link to work:** [Small Factorials | CodeChef](https://www.codechef.com/problems/FCTRL2) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Small-Factorials.py)
