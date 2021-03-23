@@ -415,3 +415,11 @@
 **Thoughts:** Solved the Small Factorials problem on CodeChef.
 
 **Link to work:** [Small Factorials | CodeChef](https://www.codechef.com/problems/FCTRL2) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Small-Factorials.py)
+
+### Day 53: March 23, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Id and Ship problem on CodeChef.
+
+**Link to work:** [Id and Ship | CodeChef](https://www.codechef.com/problems/FLOW010) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Id-and-Ship.py)
