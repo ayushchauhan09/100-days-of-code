@@ -423,3 +423,11 @@
 **Thoughts:** Solved the Id and Ship problem on CodeChef.
 
 **Link to work:** [Id and Ship | CodeChef](https://www.codechef.com/problems/FLOW010) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Id-and-Ship.py)
+
+### Day 54: March 24, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Grade The Steel problem on CodeChef.
+
+**Link to work:** [Grade The Steel | CodeChef](https://www.codechef.com/problems/FLOW014) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Grade-The-Steel.py)
