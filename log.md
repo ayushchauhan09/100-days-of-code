@@ -431,3 +431,11 @@
 **Thoughts:** Solved the Grade The Steel problem on CodeChef.
 
 **Link to work:** [Grade The Steel | CodeChef](https://www.codechef.com/problems/FLOW014) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Grade-The-Steel.py)
+
+### Day 55: March 25, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Highest Divisor problem on CodeChef.
+
+**Link to work:** [Highest Divisor | CodeChef](https://www.codechef.com/problems/HDIVISR) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Highest-Divisor.py)
