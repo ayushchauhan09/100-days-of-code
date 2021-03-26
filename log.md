@@ -439,3 +439,11 @@
 **Thoughts:** Solved the Highest Divisor problem on CodeChef.
 
 **Link to work:** [Highest Divisor | CodeChef](https://www.codechef.com/problems/HDIVISR) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Highest-Divisor.py)
+
+### Day 56: March 26, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the How Many Digits Do I Have problem on CodeChef.
+
+**Link to work:** [How Many Digits Do I Have | CodeChef](https://www.codechef.com/problems/HOWMANY) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/How-Many-Digits-Do-I-Have.py)
