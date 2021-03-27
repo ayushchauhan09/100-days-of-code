@@ -447,3 +447,11 @@
 **Thoughts:** Solved the How Many Digits Do I Have problem on CodeChef.
 
 **Link to work:** [How Many Digits Do I Have | CodeChef](https://www.codechef.com/problems/HOWMANY) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/How-Many-Digits-Do-I-Have.py)
+
+### Day 57: March 27, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Chef And Operators problem on CodeChef.
+
+**Link to work:** [Chef And Operators | CodeChef](https://www.codechef.com/problems/CHOPRT) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Chef-And-Operators.py)
