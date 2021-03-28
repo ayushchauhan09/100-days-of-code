@@ -455,3 +455,11 @@
 **Thoughts:** Solved the Chef And Operators problem on CodeChef.
 
 **Link to work:** [Chef And Operators | CodeChef](https://www.codechef.com/problems/CHOPRT) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Chef-And-Operators.py)
+
+### Day 58: March 28, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Decrement OR Increment problem on CodeChef.
+
+**Link to work:** [Decrement OR Increment | CodeChef](https://www.codechef.com/problems/DECINC) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Decrement-OR-Increment.py)
