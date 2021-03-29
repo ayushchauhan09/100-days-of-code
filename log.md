@@ -463,3 +463,11 @@
 **Thoughts:** Solved the Decrement OR Increment problem on CodeChef.
 
 **Link to work:** [Decrement OR Increment | CodeChef](https://www.codechef.com/problems/DECINC) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Decrement-OR-Increment.py)
+
+### Day 59: March 29, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Sum OR Difference problem on CodeChef.
+
+**Link to work:** [Sum OR Difference | CodeChef](https://www.codechef.com/problems/DIFFSUM) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Sum-OR-Difference.py)
