@@ -177,3 +177,6 @@ Continued coding on CodeChef, solved a problem.
 
 ### R1D58
 Continued coding on CodeChef, solved a problem.
+
+### R1D59
+Continued coding on CodeChef, solved a problem.
