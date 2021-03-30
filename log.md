@@ -471,3 +471,11 @@
 **Thoughts:** Solved the Sum OR Difference problem on CodeChef.
 
 **Link to work:** [Sum OR Difference | CodeChef](https://www.codechef.com/problems/DIFFSUM) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Sum-OR-Difference.py)
+
+### Day 60: March 30, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Mutated Minions problem on CodeChef.
+
+**Link to work:** [Mutated Minions | CodeChef](https://www.codechef.com/problems/CHN15A) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Mutated-Minions.py)
