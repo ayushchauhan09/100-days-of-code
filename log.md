@@ -479,3 +479,19 @@
 **Thoughts:** Solved the Mutated Minions problem on CodeChef.
 
 **Link to work:** [Mutated Minions | CodeChef](https://www.codechef.com/problems/CHN15A) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Mutated-Minions.py)
+
+### Day 61: March 31, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Is it a VOWEL or CONSONANT problem on CodeChef.
+
+**Link to work:** [Is it a VOWEL or CONSONANT | CodeChef](https://www.codechef.com/problems/VOWELTB) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Is-it-a-VOWEL-or-CONSONANT.py)
+
+### Day 62: March 32, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Area OR Perimeter problem on CodeChef.
+
+**Link to work:** [Area OR Perimeter | CodeChef](https://www.codechef.com/problems/AREAPERI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Area-OR-Perimeter.py)
