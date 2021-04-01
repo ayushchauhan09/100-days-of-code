@@ -488,7 +488,7 @@
 
 **Link to work:** [Is it a VOWEL or CONSONANT | CodeChef](https://www.codechef.com/problems/VOWELTB) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Is-it-a-VOWEL-or-CONSONANT.py)
 
-### Day 62: March 32, 2021
+### Day 62: April 1, 2021
 
 **Today's Progress**: Continued solving problems on CodeChef platform.
 
