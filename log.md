@@ -495,3 +495,35 @@
 **Thoughts:** Solved the Area OR Perimeter problem on CodeChef.
 
 **Link to work:** [Area OR Perimeter | CodeChef](https://www.codechef.com/problems/AREAPERI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Area-OR-Perimeter.py)
+
+### Day 63: April 2, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Smallest Number Possible problem on CodeChef.
+
+**Link to work:** [Smallest Number Possible | CodeChef](https://www.codechef.com/problems/SMOL) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Smallest-Whole-Number-Possible.py)
+
+### Day 64: April 3, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Daanish and Problems problem on CodeChef.
+
+**Link to work:** [Daanish and Problems | CodeChef](https://www.codechef.com/problems/DIV03) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Daanish-And-Problems.py)
+
+### Day 65: April 4, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Hidden Numbers problem on CodeChef.
+
+**Link to work:** [Hidden Numbers | CodeChef](https://www.codechef.com/problems/UWCOI21A) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Hidden-Numbers.py)
+
+### Day 66: April 5, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Pair Me problem on CodeChef.
+
+**Link to work:** [Pair Me | CodeChef](https://www.codechef.com/problems/SUMPOS) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Pair-Me.py)
