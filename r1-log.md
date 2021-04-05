@@ -189,3 +189,15 @@ Continued coding on CodeChef, solved a problem.
 
 ### R1D62
 Continued coding on CodeChef, solved a problem.
+
+### R1D63
+Continued coding on CodeChef, solved a problem.
+
+### R1D64
+Continued coding on CodeChef, solved a problem.
+
+### R1D65
+Continued coding on CodeChef, solved a problem.
+
+### R1D66
+Continued coding on CodeChef, solved a problem.
