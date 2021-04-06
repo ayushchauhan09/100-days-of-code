@@ -527,3 +527,11 @@
 **Thoughts:** Solved the Pair Me problem on CodeChef.
 
 **Link to work:** [Pair Me | CodeChef](https://www.codechef.com/problems/SUMPOS) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Pair-Me.py)
+
+### Day 67: April 6, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Weight Balance problem on CodeChef.
+
+**Link to work:** [Weight Balance | CodeChef](https://www.codechef.com/problems/WEIGHTBL) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Weight-Balance.py)
