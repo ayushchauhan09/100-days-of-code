@@ -201,3 +201,9 @@ Continued coding on CodeChef, solved a problem.
 
 ### R1D66
 Continued coding on CodeChef, solved a problem.
+
+### R1D67
+Continued coding on CodeChef, solved a problem.
+
+### R1D68
+Continued coding on CodeChef, solved a problem.
