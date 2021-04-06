@@ -535,3 +535,11 @@
 **Thoughts:** Solved the Weight Balance problem on CodeChef.
 
 **Link to work:** [Weight Balance | CodeChef](https://www.codechef.com/problems/WEIGHTBL) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Weight-Balance.py)
+
+### Day 68: April 7, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Pawri Meme problem on CodeChef.
+
+**Link to work:** [Pawri Meme | CodeChef](https://www.codechef.com/problems/PAWRI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Pawri-Meme.py)
