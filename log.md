@@ -543,3 +543,27 @@
 **Thoughts:** Solved the Pawri Meme problem on CodeChef.
 
 **Link to work:** [Pawri Meme | CodeChef](https://www.codechef.com/problems/PAWRI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Pawri-Meme.py)
+
+### Day 69: April 8, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Guess the Number problem on CodeChef.
+
+**Link to work:** [Guess the Number | CodeChef](https://www.codechef.com/problems/GUESSIT) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Guess-The-Number.py)
+
+### Day 70: April 9, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Chef and Bored Games problem on CodeChef.
+
+**Link to work:** [Chef and Bored Games | CodeChef](https://www.codechef.com/problems/PCJ18B) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Chef-And-Bored-Games.py)
+
+### Day 71: April 10, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Body Mass Index problem on CodeChef.
+
+**Link to work:** [Body Mass Index | CodeChef](https://www.codechef.com/problems/BMI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Body-Mass-Index.py)
