@@ -207,3 +207,12 @@ Continued coding on CodeChef, solved a problem.
 
 ### R1D68
 Continued coding on CodeChef, solved a problem.
+
+### R1D69
+Continued coding on CodeChef, solved a problem.
+
+### R1D70
+Continued coding on CodeChef, solved a problem.
+
+### R1D71
+Continued coding on CodeChef, solved a problem.
