@@ -216,3 +216,33 @@ Continued coding on CodeChef, solved a problem.
 
 ### R1D71
 Continued coding on CodeChef, solved a problem.
+
+### R1D72
+Continued coding on CodeChef, solved a problem.
+
+### R1D73
+Continued coding on CodeChef, solved a problem.
+
+### R1D74
+Continued coding on CodeChef, solved a problem.
+
+### R1D75
+Continued coding on CodeChef, solved a problem.
+
+### R1D76
+Continued coding on CodeChef, solved a problem.
+
+### R1D77
+Continued coding on CodeChef, solved a problem.
+
+### R1D78
+Continued coding on CodeChef, solved a problem.
+
+### R1D79
+Continued coding on CodeChef, solved a problem.
+
+### R1D80
+Continued coding on CodeChef, solved a problem.
+
+### R1D81
+Continued coding on CodeChef, solved a problem.
