@@ -567,3 +567,83 @@
 **Thoughts:** Solved the Body Mass Index problem on CodeChef.
 
 **Link to work:** [Body Mass Index | CodeChef](https://www.codechef.com/problems/BMI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Body-Mass-Index.py)
+
+### Day 72: April 11, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Sedroblem on CodeChef.
+
+**Link to work:** [Body Mass Index | CodeChef](https://www.codechef.com/problems/BMI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Body-Mass-Index.py)
+
+### Day 71: April 10, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Body Mass Index problem on CodeChef.
+
+**Link to work:** [Body Mass Index | CodeChef](https://www.codechef.com/problems/BMI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Body-Mass-Index.py)
+
+### Day 71: April 10, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Body Mass Index problem on CodeChef.
+
+**Link to work:** [Body Mass Index | CodeChef](https://www.codechef.com/problems/BMI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Body-Mass-Index.py)
+
+### Day 71: April 10, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Body Mass Index problem on CodeChef.
+
+**Link to work:** [Body Mass Index | CodeChef](https://www.codechef.com/problems/BMI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Body-Mass-Index.py)
+
+### Day 71: April 10, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Body Mass Index problem on CodeChef.
+
+**Link to work:** [Body Mass Index | CodeChef](https://www.codechef.com/problems/BMI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Body-Mass-Index.py)
+
+### Day 71: April 10, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Body Mass Index problem on CodeChef.
+
+**Link to work:** [Body Mass Index | CodeChef](https://www.codechef.com/problems/BMI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Body-Mass-Index.py)
+
+### Day 71: April 10, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Body Mass Index problem on CodeChef.
+
+**Link to work:** [Body Mass Index | CodeChef](https://www.codechef.com/problems/BMI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Body-Mass-Index.py)
+
+### Day 71: April 10, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Body Mass Index problem on CodeChef.
+
+**Link to work:** [Body Mass Index | CodeChef](https://www.codechef.com/problems/BMI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Body-Mass-Index.py)
+
+### Day 71: April 10, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Body Mass Index problem on CodeChef.
+
+**Link to work:** [Body Mass Index | CodeChef](https://www.codechef.com/problems/BMI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Body-Mass-Index.py)
+
+### Day 71: April 10, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Body Mass Index problem on CodeChef.
+
+**Link to work:** [Body Mass Index | CodeChef](https://www.codechef.com/problems/BMI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Body-Mass-Index.py)
