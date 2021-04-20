@@ -572,78 +572,78 @@
 
 **Today's Progress**: Continued solving problems on CodeChef platform.
 
-**Thoughts:** Solved the Sedroblem on CodeChef.
+**Thoughts:** Solved the Sed Sequences problem on CodeChef.
 
-**Link to work:** [Body Mass Index | CodeChef](https://www.codechef.com/problems/BMI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Body-Mass-Index.py)
+**Link to work:** [Sed Sequences | CodeChef](https://www.codechef.com/problems/SEDARR) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Sed-Sequences.py)
 
-### Day 71: April 10, 2021
-
-**Today's Progress**: Continued solving problems on CodeChef platform.
-
-**Thoughts:** Solved the Body Mass Index problem on CodeChef.
-
-**Link to work:** [Body Mass Index | CodeChef](https://www.codechef.com/problems/BMI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Body-Mass-Index.py)
-
-### Day 71: April 10, 2021
+### Day 73: April 12, 2021
 
 **Today's Progress**: Continued solving problems on CodeChef platform.
 
-**Thoughts:** Solved the Body Mass Index problem on CodeChef.
+**Thoughts:** Solved the How much scholarship problem on CodeChef.
 
-**Link to work:** [Body Mass Index | CodeChef](https://www.codechef.com/problems/BMI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Body-Mass-Index.py)
+**Link to work:** [How much scholarship | CodeChef](https://www.codechef.com/problems/ZCOSCH) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/How-Much-Scholarship.py)
 
-### Day 71: April 10, 2021
-
-**Today's Progress**: Continued solving problems on CodeChef platform.
-
-**Thoughts:** Solved the Body Mass Index problem on CodeChef.
-
-**Link to work:** [Body Mass Index | CodeChef](https://www.codechef.com/problems/BMI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Body-Mass-Index.py)
-
-### Day 71: April 10, 2021
+### Day 74: April 13, 2021
 
 **Today's Progress**: Continued solving problems on CodeChef platform.
 
-**Thoughts:** Solved the Body Mass Index problem on CodeChef.
+**Thoughts:** Solved the PCM Dilemma problem on CodeChef.
 
-**Link to work:** [Body Mass Index | CodeChef](https://www.codechef.com/problems/BMI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Body-Mass-Index.py)
+**Link to work:** [PCM Dilemma | CodeChef](https://www.codechef.com/problems/CCBTS01) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/PCM-Dilemma.py)
 
-### Day 71: April 10, 2021
-
-**Today's Progress**: Continued solving problems on CodeChef platform.
-
-**Thoughts:** Solved the Body Mass Index problem on CodeChef.
-
-**Link to work:** [Body Mass Index | CodeChef](https://www.codechef.com/problems/BMI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Body-Mass-Index.py)
-
-### Day 71: April 10, 2021
+### Day 75: April 14, 2021
 
 **Today's Progress**: Continued solving problems on CodeChef platform.
 
-**Thoughts:** Solved the Body Mass Index problem on CodeChef.
+**Thoughts:** Solved the Chef and Snackdown problem on CodeChef.
 
-**Link to work:** [Body Mass Index | CodeChef](https://www.codechef.com/problems/BMI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Body-Mass-Index.py)
+**Link to work:** [Chef and Snackdown | CodeChef](https://www.codechef.com/problems/SNCKYEAR) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Chef-And-Snackdown.py)
 
-### Day 71: April 10, 2021
-
-**Today's Progress**: Continued solving problems on CodeChef platform.
-
-**Thoughts:** Solved the Body Mass Index problem on CodeChef.
-
-**Link to work:** [Body Mass Index | CodeChef](https://www.codechef.com/problems/BMI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Body-Mass-Index.py)
-
-### Day 71: April 10, 2021
+### Day 76: April 15, 2021
 
 **Today's Progress**: Continued solving problems on CodeChef platform.
 
-**Thoughts:** Solved the Body Mass Index problem on CodeChef.
+**Thoughts:** Solved the Chef and Price Control problem on CodeChef.
 
-**Link to work:** [Body Mass Index | CodeChef](https://www.codechef.com/problems/BMI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Body-Mass-Index.py)
+**Link to work:** [Chef and Price Control | CodeChef](https://www.codechef.com/problems/PRICECON) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Chef-And-Price-Control.py)
 
-### Day 71: April 10, 2021
+### Day 77: April 16, 2021
 
 **Today's Progress**: Continued solving problems on CodeChef platform.
 
-**Thoughts:** Solved the Body Mass Index problem on CodeChef.
+**Thoughts:** Solved the Buying New Tablet problem on CodeChef.
 
-**Link to work:** [Body Mass Index | CodeChef](https://www.codechef.com/problems/BMI) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Body-Mass-Index.py)
+**Link to work:** [Buying New Tablet | CodeChef](https://www.codechef.com/problems/TABLET) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Buying-New-Tablet.py)
+
+### Day 78: April 17, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Two vs Ten problem on CodeChef.
+
+**Link to work:** [Two vs Ten | CodeChef](https://www.codechef.com/problems/TWOVSTEN) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Two-vs-Ten.py)
+
+### Day 79: April 18, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Small Factorial problem on CodeChef.
+
+**Link to work:** [Small Factorial | CodeChef](https://www.codechef.com/problems/FLOW018) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Small-Factorial.py)
+
+### Day 80: April 19, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the ATM problem on CodeChef.
+
+**Link to work:** [ATM | CodeChef](https://www.codechef.com/problems/HS08TEST) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/ATM.py)
+
+### Day 81: April 20, 2021
+
+**Today's Progress**: Continued solving problems on CodeChef platform.
+
+**Thoughts:** Solved the Cut the Board problem on CodeChef.
+
+**Link to work:** [Cut the Board | CodeChef](https://www.codechef.com/problems/CUTBOARD) - [Solution](https://github.com/ayushchauhan09/My-Codes/blob/main/Codes/Python/Cut-The-Board.py)
